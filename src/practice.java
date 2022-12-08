@@ -18,8 +18,6 @@ class test{
             System.out.print(names[i] + ", ");
         }
         System.out.println();
-
-
         //Find the duplicates
         int duplicates = 0;
 
